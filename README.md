@@ -1,37 +1,26 @@
 # Project1_Group2
-Repo for Group Project 1 
+Repo for Group Project 1
 
 Group Members: Zac Williams, Cole O'Neill, Joel Fisher, Justin Clawson, Selena Passeno
-We discussed looking at Census data with Samsung
 
 Using FRED= Federal Reserve Economic Data
 Inflation vs unemployment rate
 Use Panadas and Jupyter Notebook
-Use Maplot.lib to display data
+Use Maplotlib to display data
 
 Main Questions:
-Is there a corrolation between inflation rate and unemployment rate
-Is there a correlation between inflation and interest rates 
-Summary of inflation impact per state (Michigan, Texas, California, Mississppi)
+Is there a relationship between inflation and unemployment?
+Is there a relationship between COI and Nationwide Inflation Rate?
 
-Five year analysis: 
-pre-covid, during and post
+Summary of unemployment impact on a national and state basis (Michigan, California, Texas and New Jersey
 
-How to find datasets: 
+How to find datasets:
 Unemployement rate and inflation information and merge to determine impact.
 Make sure that there are simular columns in the dataset.
 
 Task Breakdown:
-Research datasets  
-https://fred.stlouisfed.org/categories/22 
-(https://data.worldbank.org/)
-https://data.worldbank.org/
-https://www.imf.org/en/home
-
-Find the different datasets related to:
-Inflation rate
-interest rate
-State information
+Research datasets
+https://fred.stlouisfed.org/categories/22
 
 
 
